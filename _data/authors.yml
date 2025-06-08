@@ -1,0 +1,12 @@
+yourusername:
+  name        : "Vincent Olago"
+  avatar      : "/assets/images/avatar.jpg"
+  bio         : "Developer. Cybersecurity Analyst. Learner."
+  location    : "Nairobi, Kenya"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/vinolago"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/vinolago"
