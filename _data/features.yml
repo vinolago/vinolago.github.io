@@ -1,0 +1,21 @@
+project_cards:
+  - image_path: /assets/images/project1.png
+    title: "Network Scanner"
+    excerpt: "A CLI tool that scans local subnets using Python sockets."
+    url: "#"
+    btn_label: "View Details"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/project2.png
+    title: "Secure File App"
+    excerpt: "A Django web app for encrypted file uploads."
+    url: "#"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/project3.png
+    title: "Firewall Simulation"
+    excerpt: "A C++ project simulating firewall rule evaluation."
+    url: "#"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
