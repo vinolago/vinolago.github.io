@@ -5,20 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## 💻 Projects
+Here are some of the projects I've worked on:
 
-### 1. Network Scanner in Python
-A CLI tool to perform subnet scans using sockets and threading.  
-**Skills**: Python, Networking, Sockets
+{% include feature_row id="project_cards" %}
 
----
-
-### 2. Secure File Transfer Web App
-A Django-based app allowing users to encrypt and upload files securely.  
-**Skills**: Django, Cryptography, Frontend basics
-
----
-
-### 3. University Project – Firewall Simulation
-Built a basic firewall rule simulator using C++.  
-**Skills**: C++, Systems Programming
