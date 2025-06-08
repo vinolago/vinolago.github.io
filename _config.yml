@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Vincent Olago"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am passionate about protecting digital infrastructure and continuously sharpening blue team skill"
+  bio              : "I am passionate about protecting systems and digital infrastructure and continuously sharpening my blue team skills."
   location         : "Nairobi"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:dr.plancksolago@email.com"
+      # url: "mailto:dr.plancksolago@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://mtandao.co.ke"
