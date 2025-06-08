@@ -26,7 +26,7 @@ homepage_icons:
     url: /resume/
 
   - title: "Projects"
-    icon: "fas fa-code"
+    icon: "fas fa-code icon-hover"
     url: /projects/
 
   - title: "Labs"
