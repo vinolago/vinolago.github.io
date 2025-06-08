@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Vincent Olago"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "I am passionate about protecting systems and digital infrastructure and continuously sharpening my blue team skills."
   location         : "Nairobi"
   email            :
