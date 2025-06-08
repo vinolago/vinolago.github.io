@@ -8,6 +8,8 @@ main:
     url: /projects/
   - title: "Lab Challenges"
     url: /lab-challenges/
+  - title: "Blog"
+    url: /blog/
 
     
   # - title: "About"
