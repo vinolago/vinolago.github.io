@@ -5,28 +5,25 @@ permalink: /lab-challenges/
 author_profile: true
 ---
 
-## 🔐 Lab Challenge: TryHackMe - Simple CTF
+## 🔓 TryHackMe: Simple CTF
 
-**Problem Statement:**  
-Break into a Linux-based VM and retrieve 3 hidden flags.
+**🧩 Problem:** Break into Linux VM and retrieve 3 flags  
+**🛠 Tools:** Nmap, Hydra, LinPEAS, Burp Suite
 
-**Approach:**  
+**📝 Steps:**
 1. Recon with Nmap
-2. Brute-forced login with Hydra
-3. Exploited SUID binary
+2. Brute-force SSH with Hydra
+3. Escalated using SUID abuse
 
-**Tools Used:**  
-- Nmap
-- Hydra
-- LinPEAS
-- Burp Suite
+**📸 Screenshots:**
 
-**Screenshots:**
-![Nmap Scan](/assets/images/lab1-nmap.png)
-![Flag Found](/assets/images/lab1-flag.png)
+![Nmap scan](/assets/images/lab1-nmap.png)
+![Got root!](/assets/images/lab1-root.png)
 
 ---
 
-## 🧪 Challenge 2: HackTheBox - OpenAdmin
+## 💣 HackTheBox: OpenAdmin
+
+(Same structure for second lab)
 
 _Repeat similar format here with screenshots and writeup_
