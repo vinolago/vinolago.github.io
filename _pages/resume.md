@@ -5,9 +5,15 @@ permalink: /resume/
 author_profile: true
 ---
 
+## Professional Summary
+- SEO Strategist for 7 years
+- Currently transitioning into cybersecurity and fullstack development (DevSecOps)
+- Working on real-world projects through hands-on technical mentorship and training
+- Actively seeking a SOC Analyst role to apply my technical skills and contribute to projects
+
 ## 🎓 Academic Background
 
-- B.Sc. in Computer Science, University Name, 2021
+- B.Sc. in Physics, Kenyatta University, 2025
 - Coursework: Network Security, Operating Systems, Algorithms
 
 ## 💼 Work Experience
