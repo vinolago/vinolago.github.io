@@ -138,6 +138,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Site Header
+ header_pages:
+  - resume.md
+  - projects.md
+  - blog.md
+  - contact.md
+  - lab-challenges.md
+
 # Site Footer
 footer:
   links:
