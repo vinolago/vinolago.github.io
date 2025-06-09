@@ -1,8 +1,8 @@
 project_cards:
   - image_path: /assets/images/project1.png
-    title: "Network Scanner"
+    title: "Cap"
     excerpt: "A CLI tool that scans local subnets using Python sockets."
-    url: "#"
+    url: /projecs/cap
     btn_label: "View Details"
     btn_class: "btn--primary"
 
