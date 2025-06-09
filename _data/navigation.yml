@@ -6,8 +6,8 @@ main:
     url: /resume/
   - title: "Projects"
     url: /projects/
-  - title: "Lab Challenges"
-    url: /lab-challenges/
+# - title: "Lab Challenges"
+  # url: /lab-challenges/
   - title: "Blog"
     url: /blog/
   - title: "Contact"
