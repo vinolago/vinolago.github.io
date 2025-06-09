@@ -1,10 +1,7 @@
 ---
-title: "Cap - HTB Catch the Flaf"
+title: "Cap - HTB Catch the Flag"
 layout: single
 permalink: /projects/cap/
-header:
-  overlay_image: /assets/images/cap-pawned.png
-  overlay_filter: 0.3
 ---
 
 ### 🧠 Overview
