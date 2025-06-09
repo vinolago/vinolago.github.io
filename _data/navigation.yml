@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Resume"
-    url: /resume/
+    url: _pages/resume/
   #- title: "Projects"
     url: /projects/
   #- title: "Lab Challenges"
