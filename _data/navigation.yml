@@ -4,12 +4,12 @@ main:
     url: /
   - title: "Resume"
     url: /resume/
-  - title: "Projects"
-    url: /projects/
+# - title: "Projects"
+#   url: /projects/
 # - title: "Lab Challenges"
-  # url: /lab-challenges/
-  - title: "Blog"
-    url: /blog/
+#   url: /lab-challenges/
+# - title: "Blog"
+#   url: /blog/
   - title: "Contact"
     url: /contact/
 
