@@ -6,7 +6,9 @@ permalink: /projects/cap/
 
 ### 🧠 Overview
 
-So, in this lab, I attempt to hack the **HTB Cap Machine**. It's a retired machine and marked as easy. 
+![Cap](/assets/images/cap-pawned.png)
+
+So, in this lab, I attempt to hack the **HTB Cap Machine**. It's a retired machine and marked as easy to exploit. 
 
 ### 🔧 Skills learned
 - Web enumeration
