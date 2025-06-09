@@ -4,11 +4,11 @@ main:
     url: /
   - title: "Resume"
     url: _pages/resume/
-  #- title: "Projects"
+  - title: "Projects"
     url: /projects/
-  #- title: "Lab Challenges"
+  - title: "Lab Challenges"
     url: /lab-challenges/
-  #- title: "Blog"
+  - title: "Blog"
     url: /blog/
   - title: "Contact"
     url: /contact/
