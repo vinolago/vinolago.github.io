@@ -142,9 +142,7 @@ author:
  header_pages:
   - resume.md
   - projects.md
-  - blog.md
   - contact.md
-  - lab-challenges.md
 
 # Site Footer
 footer:
