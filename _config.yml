@@ -140,9 +140,9 @@ author:
 
 # Site Header
  header_pages:
-  - resume.md
-  - projects.md
-  - contact.md
+  - _pages/resume.md
+  - _pages/projects.md
+  - _pages/contact.md
 
 # Site Footer
 footer:
