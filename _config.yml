@@ -63,10 +63,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your@email.com"
-    - label: "Cyber254 Blog"
+      url: "mailto:dr.plancksolago@email.com"
+    - label: "About"
       icon: "fas fa-fw fa-link"
-      url: "https://vinolago.github.io/"
+      url: "https://vinolago.github.io/about"
     - label: "TryHackMe"
       icon: "fas fa-fw fa-link"
       url: "https://tryhackme.com/p/vincentolagoo"
