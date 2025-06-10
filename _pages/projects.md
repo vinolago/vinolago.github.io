@@ -108,5 +108,47 @@ The attachment included JavaScript that redirected to a credential-harvesting si
 
 The server hosting the site had been flagged for malware by multiple vendors.
 
+### 🛡️ Project Title: Vulnerability Assessment with Nessus Essentials
+
+Summary:
+Conducted a full vulnerability scan of a Metasploitable2 virtual machine using Nessus Essentials. Identified vulnerabilities by severity and created a risk-based remediation report.
+
+### 🧰 Tools Used
+Nessus Essentials
+
+Metasploitable2 (Linux)
+
+CVSS Calculator
+
+Kali Linux (for scanning)
+
+LibreOffice for report generation
+
+🧪 Scan Details
+| Target | 192.168.56.101 (Metasploitable2) |
+| Scanner | Kali Linux (Nessus Essentials) |
+| Scan Profile | Basic Network Scan |
+| Duration | ~10 minutes |
+
+📉 Top Vulnerabilities Found
+CVE ID	Severity	Affected Service	Description
+CVE-2009-2692	Critical	Linux Kernel	Privilege escalation vulnerability
+CVE-2017-5638	High	Apache Struts	Remote code execution
+CVE-2010-0738	High	Tomcat	Authentication bypass
+
+🧭 Risk Prioritization
+Critical vulnerabilities allow local or remote code execution.
+
+The system lacks segmentation, increasing attack surface.
+
+Immediate patching or isolation of this host is recommended.
+
+🧾 Deliverables
+Executive summary of vulnerabilities
+
+Risk matrix (CVSS score vs. asset criticality)
+
+Remediation plan for each major finding
+
 {% include feature_row id="project_cards" %}
 
