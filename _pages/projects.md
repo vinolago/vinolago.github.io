@@ -7,7 +7,7 @@ author_profile: true
 ## Projects
 Here are some of the projects I've worked on:
 
-### 🔐 Project 1: Build a Home SOC Lab & Detect a Simulated Attack
+### 🔐 Project 1: SOC Lab for Detecting a Simulated Attack
 
 Summary:
 
