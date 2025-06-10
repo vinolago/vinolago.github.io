@@ -77,9 +77,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vinolago"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://linkedin.com/in/vincent-olago"
 
 # Header Navigation
 header_pages:
