@@ -1,0 +1,38 @@
+---
+title: "Lame - HTB Catch the Flag"
+layout: single
+date: 2025-06-10
+categories: [blog]
+teaser: /assets/images/redeemer-pawned.png
+tags: [hack the box, Cap]
+excerpt: ""
+---
+### Overview
+
+![Cap](/assets/images/redeemer-pawned.png)
+
+This is a lab that focuses on enumerating a Redis server and dumping its database. It’s marketed very easy to exploit. 
+Redis is typically used to cache data that is frequently requested for quick retrieval, such as prices. 
+
+### Skills Learned
+- Enumerating Redis server 
+
+### Open ports
+
+I start with nmap scan to enumerate open ports. We see that port 6379 is open. 
+
+Rediscli img<img src="/assets/images/nmaps.png" alt="Nmap Scan" style="max-width:100%;">
+
+Next, we need to install _redis-cli_ in order to interact with the Redis server. The first option is perfect.
+We now have a connection. 
+
+<img src="/assets/images/redeemer-redis-connect.png" alt="Redis connected" style="max-width:100%;">
+
+Under info, the item with the most interest to us is keyspace. It shows the number of keys and their expiration.
+Next we select the database with index 0 using select 0.
+
+<img src="/assets/images/redeemer-select.png" alt="Select Index 0" style="max-width:100%;">
+
+Now we can use key * to list keys and get <key> to retrieve the key values (flag).
+
+<img src="/assets/images/redeemer-flag.png" alt="Flag" style="max-width:100%;">
