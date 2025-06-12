@@ -42,7 +42,7 @@ WINDOWS\System32\drivers\etc\hosts - is the file that aids in the local translat
 
 Let’s do just that and see the contents of C:\WINDOWS\System32\drivers\etc\hosts
 
-<img src="/assets/images/rec-cfile.png" alt="C:/" style="max-width:100%;">
+<img src="/assets/images/res-cfile.png" alt="C:/" style="max-width:100%;">
 
 ### Gaining Foothold
 
