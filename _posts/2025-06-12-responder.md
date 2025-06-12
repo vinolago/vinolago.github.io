@@ -58,13 +58,14 @@ First thing we have to do  is set the Responder machine to listen for SMB reques
 
 With the Responder server ready, we tell the server to include a resource from our SMB server (payload via the web page). 
 
-<img src="/assets/images/res-rfincluded.png" alt="RFI" style="max-width:100%;">
+<img src="/assets/images/res-rfincluded.jpg" alt="RFI" style="max-width:100%;">
 
 From the screenshot above, the browser says an error but upon checking our listening Responder server we can see we have a NetNTLMv for the Administrator user (hash).
 
 <img src="/assets/images/res-netntlmv2.png" alt="NetNTLMV2" style="max-width:100%;">
 
 We can save the hash on our kali and try to crack it using john the ripper. 
+
 Password cracked: (username: administrator, password: badminton)
 
 <img src="/assets/images/res-password.png" alt="Pass" style="max-width:100%;">
