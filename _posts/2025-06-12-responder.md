@@ -10,6 +10,8 @@ excerpt: ""
 
 ### Overview
 
+![Responder](/assets/images/res-pawned.png)
+
 The goal is to collect the NetNTLMv2 challenge of a user by exploiting the File Inclusion vulnerability of a Windows server.
 
 ### Enumerating open ports
