@@ -8,14 +8,14 @@ minimal_mistakes_skin: "dark" # skins: "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale: "en-US"
 title: "Cyber254"
-title_separator: "-"
+title_separator: "|"
 # subtitle: "Your tagline here"
 name: "Vincent Olago"
 description: "Welcome to my website."
 url: "https://vinolago.github.io"
 baseurl: "" # keep this empty for user/organization sites
 # repository: "your-username/your-repo"
-# teaser: "/assets/images/500x300.png"
+teaser: "/assets/images/500x300.png"
 # logo: "/assets/images/logo.png"
 # masthead_title: "Cyber254"
 # breadcrumbs: true
