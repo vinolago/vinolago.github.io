@@ -15,7 +15,7 @@ description: "Cybersecurity portfolio showcasing blue team projects, SOC analyst
 url: "https://vinolago.github.io"
 baseurl: "" # keep this empty for user/organization sites
 # repository: "your-username/your-repo"
-teaser: "/assets/images/500x300.png"
+teaser: true
 # logo: "/assets/images/logo.png"
 # masthead_title: "Cyber254"
 # breadcrumbs: true
@@ -170,8 +170,9 @@ permalink: /:categories/:title/
 timezone: Africa/Nairobi
 
 # Pagination
-paginate: 8
+paginate: 10
 paginate_path: /page:num/
+show_excerpts: true
 
 # Posts Pagination (Optional)
 pagination:
