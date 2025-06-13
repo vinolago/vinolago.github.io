@@ -1,0 +1,39 @@
+---
+title: "Sequel - HTB Writeup"
+layout: single
+date: 2025-06-13
+categories: [blog]
+teaser: /assets/images/seq-pawned.png
+tags: [hack the box, Sequel]
+excerpt: ""
+---
+
+### Overview
+
+The aim is to enumerate web services on the Sequel machine and infiltrate its database using SQL injection. 
+
+### Enumeration
+
+I started with an nmap scan to find open ports. We see that MYSQL is running on port 3306. This version is 5.5.5-10.3.27-MariaDB-0+deb10u1.
+
+Nmap img<img src="/assets/images/seq-nmap.png" alt="Nmap Scan" style="max-width:100%;">
+
+That information is vital because it tells me to install either mysql or MariaDB and use the cli commands to try and manipulate this database.
+
+### Access 
+
+According to the manual (--help), we can authenticate to MYSQL service using username and password. 
+
+So, we can try different password/username combinations (time consuming) or try a passwordless option using /root user (only works if mysql database is misconfigured).
+
+<img src="/assets/images/se-passwordless.png" alt="Password-less" style="max-width:100%;">
+
+Just like that, we’ve gained a foothold.
+
+Now let’s execute some commands and retrieve the flags:
+ - SHOW databases; - Prints out the databases we can access
+ - USE {database_name}; - Select the database we want
+ - SHOW tables; - Shows the available tables inside the current database
+ - SELECT * FROM {table_name}; - Reveals all data in the table
+
+<img src="/assets/images/seq-flags.png" alt="Flags" style="max-width:100%;">
