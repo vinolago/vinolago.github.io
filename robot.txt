@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vinolago.github.io/sitemap.xml
