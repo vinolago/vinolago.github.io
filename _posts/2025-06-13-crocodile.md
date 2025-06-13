@@ -36,7 +36,7 @@ At last, we found a /login.php page. Let’s try to login (luckily only 4 creden
 
 We’ve managed to login with admin credentials since we can now see a Server Manager admin panel.
 
-<img src="/assets/images/croc-dir.png" alt="Directories" style="max-width:100%;">
+<img src="/assets/images/crco-dir.png" alt="Directories" style="max-width:100%;">
 
 Let’s retrieve the flag
 
