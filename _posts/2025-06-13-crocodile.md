@@ -12,7 +12,7 @@ excerpt: ""
 
 ### Overview
 
-For this machine, I started with a nmap scan. Port 21 and Port 80 are open and we can also see the services (and version) each port runs.
+For this machine, I started with an nmap scan. Port 21 and Port 80 are open and we can also see the services (and version) each port runs.
 
 <img src="/assets/images/croc-nmap.png" alt="Nmap Scan" style="max-width:100%;">
 
