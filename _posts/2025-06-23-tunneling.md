@@ -10,7 +10,7 @@ excerpt: ""
 
 ### 🧠 Overview
 
-![DNS](/assets/images/dns.png)
+![DNS](/assets/images/dns-tun.png)
 
 This is one of the CTF challenges I tackled as part of the 2025 Dewald Roode Cybersecurity Hackathon. 
 
