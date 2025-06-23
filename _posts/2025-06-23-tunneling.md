@@ -31,6 +31,7 @@ Now let’s extract DNS queries from this IP and save in a file named queries.tx
 <img src="/assets/images/base64d2.png" alt="Base64" style="max-width:100%;">
 
 Next, we inspect the base64 string above to decode it. After the 0-, the rest of the code is clearly Base64. 
+
 Q1RGe1RVTk4zTEwxTkdfRE5TX0wxSzNfNF9QUjB9
 
 ### Decode Base64
