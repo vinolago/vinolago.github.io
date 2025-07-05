@@ -4,7 +4,7 @@ layout: single
 date: 2025-06-23
 categories: [blog]
 header:
- teaser: /assets/images/dns.png
+ teaser: /assets/images/dns-tun.jpg
 tags: [Hackathon, DNS, event logs]
 excerpt: "DNS exfiltration challenge"
 ---
