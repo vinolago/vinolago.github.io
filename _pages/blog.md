@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: home
+layout: archive
 entries_layout: grid
 excerpt: "Cybersecurity blog posts"
 collection: posts
