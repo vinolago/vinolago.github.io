@@ -7,6 +7,7 @@ header:
  teaser: /assets/images/dns-tun.jpg
 tags: [Hackathon, DNS, event logs]
 excerpt: "DNS exfiltration challenge"
+read_time: true
 ---
 
 ### 🧠 Overview
