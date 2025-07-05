@@ -1,0 +1,35 @@
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+  {% if post.header.teaser %}
+    <div class="archive__item-teaser">
+      <img src="{{ post.header.teaser | relative_url }}" alt="">
+    </div>
+  {% endif %}
+
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h2>
+
+  <div class="page__meta">
+    {% if post.date %}
+      <span class="page__meta-date">
+        📅 {{ post.date | date: "%d %B %Y" }}
+      </span>
+    {% endif %}
+    {% if post.words %}
+      • {{ post.words | number_with_delimiter }} words
+    {% endif %}
+    {% if post.read_time %}
+      • {{ post.read_time }} min read
+    {% endif %}
+  </div>
+
+  {% if post.tags %}
+    <div class="page__meta">
+      {% for tag in post.tags %}
+        <span class="taxonomy__item">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+</article>
