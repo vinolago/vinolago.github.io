@@ -1,0 +1,40 @@
+body {
+  background-color: #000 !important;
+  color: #33ff33 !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+a {
+  color: #00ffff !important;
+}
+
+nav, .masthead, footer, .page__footer {
+  background: none !important;
+  border: none !important;
+  color: #33ff33 !important;
+}
+
+.page, .page__inner-wrap {
+  background: none !important;
+  box-shadow: none !important;
+}
+
+h1, h2, h3 {
+  color: #00ffcc;
+  font-family: 'Courier New', monospace;
+}
+
+code, pre {
+  background-color: #111;
+  color: #33ff33;
+  border: none;
+}
+
+.terminal {
+  background: #111;
+  padding: 1rem;
+  color: #33ff33;
+  font-family: monospace;
+  border: 1px solid #33ff33;
+  border-radius: 4px;
+}
