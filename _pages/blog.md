@@ -1,8 +1,10 @@
 ---
+title: Blog
 layout: home
-title: "Blog"
+author_profile: false
+entries_layout: grid
+excerpt: "All posts"
 permalink: /blog/
-author_profile: true
 ---
 
 Welcome to my blog! Posts appear below in reverse chronological order.
