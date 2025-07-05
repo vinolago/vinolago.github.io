@@ -3,9 +3,10 @@ title: "DNS Exfiltration Writeup"
 layout: single
 date: 2025-06-23
 categories: [blog]
-teaser: /assets/images/dns.png
-tags: [Hackathon, DNS]
-excerpt: ""
+header:
+ teaser: /assets/images/dns.png
+tags: [Hackathon, DNS, event logs]
+excerpt: "DNS exfiltration challenge"
 ---
 
 ### 🧠 Overview
