@@ -3,7 +3,8 @@ title: "Appointment - HTB Catch the Flag"
 layout: single
 date: 2025-06-10
 categories: [blog]
-teaser: /assets/images/appoint-pawned.png
+header:
+ teaser: /assets/images/appoint-pawned.png
 tags: [hack the box, Cap]
 excerpt: ""
 ---
