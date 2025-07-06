@@ -6,7 +6,7 @@ categories: [blog]
 header:
  teaser: /assets/images/dns-tun.jpg
 tags: [Hackathon, DNS, event logs]
-excerpt: "DNS exfiltration challenge"
+excerpt: ""
 read_time: true
 ---
 
