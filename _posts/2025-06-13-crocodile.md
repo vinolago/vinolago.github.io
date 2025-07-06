@@ -3,7 +3,8 @@ title: "Crocodile Writeup"
 layout: single
 date: 2025-06-13
 categories: [blog]
-teaser: /assets/images/croc-pawned.png
+header:
+ teaser: /assets/images/croc-pawned.png
 tags: [hack the box, Cap]
 excerpt: ""
 ---
