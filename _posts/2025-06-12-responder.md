@@ -3,7 +3,8 @@ title: "Responder - HTB Catch the Flag"
 layout: single
 date: 2025-06-12
 categories: [blog]
-teaser: /assets/images/res-pawned.png
+header:
+ teaser: /assets/images/res-pawned.png
 tags: [hack the box, Responder]
 excerpt: ""
 ---
