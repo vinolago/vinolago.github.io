@@ -171,7 +171,7 @@ timezone: Africa/Nairobi
 
 # Pagination
 paginate: 10
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 show_excerpts: true
 
 # Posts Pagination (Optional)
