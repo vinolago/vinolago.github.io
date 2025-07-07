@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: archive
+layout: home
 entries_layout: grid
 excerpt: "Cybersecurity blog posts"
 paginate: true
