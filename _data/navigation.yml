@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: /
+# - title: "Home"
+    #url: /
   - title: "Resume"
     url: /resume/
   - title: "Projects"
@@ -9,7 +9,7 @@ main:
   - title: "About"
     children:
       - title: "About Me"
-        url: /resume/
+        url: /about/
       - title: "More About Me"
         url: https://linkedin.com/in/vincent-olago
   - title: "Blog"
