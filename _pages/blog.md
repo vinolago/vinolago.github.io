@@ -9,4 +9,3 @@ paginate_path: /blog/page:num/
 custom-archive: custom-card
 ---
 
-Welcome to my blog! Posts appear below in reverse chronological order.
