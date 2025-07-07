@@ -87,6 +87,11 @@ header_pages:
   - _pages/projects.md
   - _pages/contact.md
 
+# Tells Jekyll where to find the navigation data
+navigation:
+  - title: "main"
+    file: navigation.yml
+
 # Footer
 footer:
   links:
