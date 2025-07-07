@@ -5,11 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "About"
-    children:
-      - title: "About Me"
-        url: /about/
-      - title: "More About Me"
-        url: https://linkedin.com/in/vincent-olago
+    url: /about/
   - title: "Blog"
     url: /blog/
 #  - title: "Contact"
