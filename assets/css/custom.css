@@ -30,3 +30,9 @@
   background-color: #007acc;
   color: #fff;
 }
+
+.site-footer .footer-col a,
+.site-footer .footer-col li {
+  text-transform: capitalize !important;
+}
+
