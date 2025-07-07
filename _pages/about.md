@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "About"
+title: "About me"
 permalink: /about/
 author_profile: false
 ---
 
-## 🔓 Welcome to My Cybersecurity Blog
+## ~/Whoami
 
 Typically, you'll find me doing any of the following in front of my computer:
 
@@ -15,4 +15,12 @@ Typically, you'll find me doing any of the following in front of my computer:
  - And sharpening my ethical hacking skills via TryHackMe, HackTheBox, BLTO, etc.
 
 Here's is where I share most of what I've learned. Please reach out if you have questions or suggestions. 
+## ~/Education
+## ~/Certifications
+
+## ~/Technical Skills
+## ~/Soft Skills
+## ~/Projects
+## ~/Work Experience
+## ~/Areas of Interest
 _
