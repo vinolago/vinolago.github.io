@@ -6,6 +6,24 @@ author_profile: false
 ---
 ## ~/Whoami
 
+I’m not the quickest with exploits, nor the loudest in the war room.
+
+But I pay attention, to the logs ignored, the alerts dismissed, the anomalies hidden in plain sight.
+
+While others rush to patch or scan, I study the behavior—because every breach starts as a whisper.
+
+Security isn’t just a perimeter, it’s posture, pattern, and persistence.
+
+I’ve learned to listen to what endpoints tell, what traffic reveals, and what vulnerabilities often hide. 
+
+Not to break systems, but to understand where they bleed before anyone else notices.
+
+I spent years in other fields, chasing paths that never quite clicked.
+
+Now, I’ve felt more clarity and fulfillment than I ever have before.
+
+Every flag I catch, every insight I uncover, this is a long-term journey and I'm just tunning in.
+
 ## ~/Education
 
 - B.Sc. in Physics, Kenyatta University, 2025
