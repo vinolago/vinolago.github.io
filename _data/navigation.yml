@@ -6,12 +6,17 @@ main:
     url: /resume/
   - title: "Projects"
     url: /projects/
-# - title: "About"
-#   url: /about/
-# - title: "Blog"
-#   url: /blog/
-  - title: "Contact"
-    url: /contact/
+  - title: "About"
+    children:
+      - title: "About Me"
+        url: /resume/
+      - title: "More About Me"
+        url: https://linkedin.com/in/vincent-olago
+  - title: "Blog"
+    url: /blog/
+# - title: "Contact"
+#   url: /contact/
+
 
     
   # - title: "About"
