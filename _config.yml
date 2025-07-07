@@ -20,9 +20,9 @@ teaser: true
 # masthead_title: "Cyber254"
 # breadcrumbs: true
 words_per_minute: 200
-# enable_copy_code_button: true
-# copyright: "Cyber254"
-# copyright_url: "https://vinolago.github.io"
+enable_copy_code_button: true
+copyright: "Cyber254"
+copyright_url: "https://vinolago.github.io"
 
 # Comments (optional)
 comments:
