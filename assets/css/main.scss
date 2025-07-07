@@ -9,26 +9,3 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import "minimal-mistakes/custom";
 
-/* Custom primary button */
-.btn--primary {
-  background-color: #007acc;  /* blue */
-  color: #fff;
-  border: none;
-}
-
-.btn--primary:hover {
-  background-color: #005fa3; /* darker blue */
-  color: #fff;
-}
-
-/* Custom inverse button */
-.btn--inverse {
-  background-color: #fff;
-  color: #007acc;
-  border: 2px solid #007acc;
-}
-
-.btn--inverse:hover {
-  background-color: #007acc;
-  color: #fff;
-}
