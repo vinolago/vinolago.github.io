@@ -2,10 +2,12 @@
 layout: single
 title: "Contact"
 permalink: /contact/
-author_profile: true
+author_profile: false
 ---
+Let's connect on [LinkedIn:](https://linkedin.com/in/vincent-olago)
 
-Feel free to reach out using the form below:
+
+If not, feel free to reach out using the form below:
 
 <form action="https://formspree.io/f/xnnvparb" method="POST">
   <label for="name">Your name:</label><br>
