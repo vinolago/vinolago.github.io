@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: false
 ---
-Let's connect on [LinkedIn](https://linkedin.com/in/vincent-olago)
+<a href="https://linkedin.com/in/vincent-olago" target="_blank" rel="noopener noreferrer">Let's connect on LinkedIn.</a>
+
 
 
 If not, feel free to reach out using the form below:
