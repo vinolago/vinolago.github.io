@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: false
 ---
-Let's connect on [LinkedIn:](https://linkedin.com/in/vincent-olago)
+Let's connect on [LinkedIn](https://linkedin.com/in/vincent-olago)
 
 
 If not, feel free to reach out using the form below:
